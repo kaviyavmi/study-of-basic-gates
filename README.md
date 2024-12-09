@@ -103,7 +103,7 @@ endmodule
 
 **OUTPUT**
 
-![WhatsApp Image 2024-12-09 at 08 36 40_7cf4717b](https://github.com/user-attachments/assets/26b6d6b5-bf10-49bd-9b6d-c75cb91ad032)
+![WhatsApp Image 2024-12-09 at 08 36 40_11f5ac06](https://github.com/user-attachments/assets/bd9b37fa-4985-4f7b-837d-6c706b1d9340)
 
 
 **Result:**
